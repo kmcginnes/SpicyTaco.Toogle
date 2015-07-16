@@ -5,6 +5,7 @@ Feature toggling for mere mortals.
 ## Desired Use Cases
 
 __Testing__
+
 When testing the developer should have an easy way to set the feature flag's value.
 
 ```c#
@@ -16,6 +17,7 @@ public void TestForSomeAwesomeFeature()
 ```
 
 __Consuming__
+
 When consuming the toogle values they should be easy to get, either through injection or statically.
 
 ```c#
