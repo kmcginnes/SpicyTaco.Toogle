@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toogle", "Toogle\Toogle.csproj", "{F1997394-507B-42EC-90B4-46FB54876490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toogle.Tests.Net40", "Toogle.Tests.Net40\Toogle.Tests.Net40.csproj", "{E4A5C8C5-C6B4-488E-B132-65F07C76F850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F1997394-507B-42EC-90B4-46FB54876490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1997394-507B-42EC-90B4-46FB54876490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1997394-507B-42EC-90B4-46FB54876490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A5C8C5-C6B4-488E-B132-65F07C76F850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A5C8C5-C6B4-488E-B132-65F07C76F850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A5C8C5-C6B4-488E-B132-65F07C76F850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A5C8C5-C6B4-488E-B132-65F07C76F850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
